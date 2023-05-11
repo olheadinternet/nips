@@ -8,7 +8,7 @@ This NIP adds a way to generate an event-id that can be shared with someone yet 
     
     -   The host relay that will store the note, tagged as `hostrelay`
     -   Recommended relays tagged as `relays`
-    -   Recommended pubkeys taged as `p`
+    -   Recommended pubkeys tagged as `p`
     -   A pet name for the invitee tagged as `petname`
    
 -    The invitee shares the event-id of the note with the new user.
